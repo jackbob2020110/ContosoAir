@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/MyDevopsLab0/ContosoAir2020/_apis/build/status/jackbob2020110.ContosoAir?branchName=master)](https://dev.azure.com/MyDevopsLab0/ContosoAir2020/_build/latest?definitionId=8&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
